@@ -7,15 +7,13 @@
 Google Analytics, Atlassian
 - Database Management: MySQL, SQL Server 
 - Cybersecurity & Compliance: NIST SP-800, ISO 27001, HIPAA/HITRUST Framework, NIST (CSF), ISO 27001, PCI-DSS, CMMC, NYDFS, EU-GDPR
- 
-Relevant Coursework: Foundation of Data Structures, IT Project Management, Database Management
-- 
+- Relevant Coursework: Foundation of Data Structures, IT Project Management, Database Management
 - 💞️ I’m looking to collaborate on projects consisting of fields of work in Data Science, CyberSecurity, Data Analytics, Cloud Computing ...
+- ⚡ Fun fact: I run my own business called TouchedByTamz which continuously serves in the beauty industry  ...
 - 📫 How to reach me
            My emails are muriel.o.nicholas@gmail.com  & murielnicholas@my.unt.edu
-- 🌱Connect with me on Linkedin: https://www.linkedin.com/in/murielnicholas/
+- 🌱 Connect with me on Linkedin: https://www.linkedin.com/in/murielnicholas/
 - My Portfolio Link: ...
-- ⚡ Fun fact: I run my own business called TouchedByTamz which continuously serves in the beauty industry  ...
 
 <!---
 MurielNicholas/MurielNicholas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
